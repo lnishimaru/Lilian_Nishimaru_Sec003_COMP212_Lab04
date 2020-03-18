@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lilian_Nishimaru_Sec003_Exercise01", "Lilian_Nishimaru_Sec003_COMP212_Lab04\Lilian_Nishimaru_Sec003_Exercise01.csproj", "{B6A505D0-DDA4-4677-BD94-F445F04263CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookExamples", "..\Week09\BookExamples\BookExamples\BookExamples.csproj", "{E81D91AE-561A-4315-832B-8E2AB25F3453}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lilian_Nishimaru_Sec003_Exercise02", "Lilian_Nishimaru_Sec003_Exercise02\Lilian_Nishimaru_Sec003_Exercise02.csproj", "{A77ADFD4-3FA7-4E80-9AD5-21404112BE3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseballData", "BaseballData\BaseballData.csproj", "{CAC44313-9E61-4150-9D90-3C22BA1C6DFC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Databases", "Databases", "{B8F095E3-CD89-4785-9116-7DA479E20D71}"
+	ProjectSection(SolutionItems) = preProject
+		..\Databases\Databases\AddressBook.mdf = ..\Databases\Databases\AddressBook.mdf
+		..\Databases\Databases\AddressBook_log.ldf = ..\Databases\Databases\AddressBook_log.ldf
+		..\Databases\Databases\Baseball.mdf = ..\Databases\Databases\Baseball.mdf
+		..\Databases\Databases\Baseball_log.ldf = ..\Databases\Databases\Baseball_log.ldf
+		..\Databases\Databases\Books.mdf = ..\Databases\Databases\Books.mdf
+		..\Databases\Databases\Books.sql = ..\Databases\Databases\Books.sql
+		..\Databases\Databases\Books_log.ldf = ..\Databases\Databases\Books_log.ldf
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6A505D0-DDA4-4677-BD94-F445F04263CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6A505D0-DDA4-4677-BD94-F445F04263CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6A505D0-DDA4-4677-BD94-F445F04263CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6A505D0-DDA4-4677-BD94-F445F04263CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E81D91AE-561A-4315-832B-8E2AB25F3453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E81D91AE-561A-4315-832B-8E2AB25F3453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E81D91AE-561A-4315-832B-8E2AB25F3453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E81D91AE-561A-4315-832B-8E2AB25F3453}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A77ADFD4-3FA7-4E80-9AD5-21404112BE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A77ADFD4-3FA7-4E80-9AD5-21404112BE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A77ADFD4-3FA7-4E80-9AD5-21404112BE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A77ADFD4-3FA7-4E80-9AD5-21404112BE3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAC44313-9E61-4150-9D90-3C22BA1C6DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC44313-9E61-4150-9D90-3C22BA1C6DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC44313-9E61-4150-9D90-3C22BA1C6DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC44313-9E61-4150-9D90-3C22BA1C6DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {691C8F05-91E3-45BA-9543-9707882989E0}
+	EndGlobalSection
+EndGlobal
